@@ -1,0 +1,7 @@
+﻿Candidate,Indicators,MinimumMatchedAttributes,TrainTP,TrainFP,TrainDetectionPct,TrainFalsePositivePct,HoldoutTP,HoldoutFP,HoldoutDetectionPct,HoldoutFalsePositivePct,TotalTP,TotalFN,TotalFP,TotalTN,TotalDetectionPct,TotalFalsePositivePct,TotalPrecisionPct,TotalF1Pct,TotalBalancedAccuracyPct
+Baseline_V1,Original 7 attributes,1,165,17,63.46,6.03,51,2,59.3,2.13,216,130,19,357,62.43,5.05,91.91,74.35,78.69
+Candidate_BaselineFPBudget,H_Time_Pre2000; H_Symbol_OutOfBounds; H_Uninit_OverFile; H_Image_GT4x; H_Entropy_GT69,1,170,15,65.38,5.32,50,1,58.14,1.06,220,126,16,360,63.58,4.26,93.22,75.6,79.66
+Candidate_FPR_025permille,H_Time_Pre2000; H_Symbol_OutOfBounds; H_Uninit_OverFile; H_Image_GT8x; H_Entropy_GT73,1,156,7,60.0,2.48,43,0,50.0,0.0,199,147,7,369,57.51,1.86,96.6,72.1,77.83
+Candidate_FPR_050permille,H_Time_Pre2000; H_Symbol_OutOfBounds; H_Uninit_OverFile; H_Image_GT8x; H_Entropy_GT69,1,169,13,65.0,4.61,49,1,56.98,1.06,218,128,14,362,63.01,3.72,93.97,75.43,79.64
+Candidate_FPR_075permille,H_Time_Pre2000; H_Sections_GT8; H_Uninit_OverFile; H_Image_GT4x; H_Entropy_GT69,1,177,20,68.08,7.09,52,2,60.47,2.13,229,117,22,354,66.18,5.85,91.24,76.72,80.17
+Candidate_FPR_100permille,H_Time_Pre2000; H_Sections_GT8; H_Uninit_OverFile; H_Image_GT4x; H_Entropy_GT69,1,177,20,68.08,7.09,52,2,60.47,2.13,229,117,22,354,66.18,5.85,91.24,76.72,80.17

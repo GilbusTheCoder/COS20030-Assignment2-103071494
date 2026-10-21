@@ -1,0 +1,723 @@
+﻿Label,Split,Path,IsPE,BaselineMatched,RecommendedMatched,MatchedIndicators
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\allaple_0021d18795250bc35ab5279bf78307e4,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\allaple_03ad948c944f4a4a567cbff80a89bc6d,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\allaple_0ebb34e95ad95af1f0f395775c4d0331,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\allaple_147495a82f3ad9ef8d12924838cf0f33,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\allaple_14985b93d2027d163ad3b261f63bf902,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\allaple_171af0ca0a18d141ee2d57922dd95263,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\allaple_1a2a1d369ec475b597e76024460f45e8,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\allaple_1abf47a7031f6ec7ce879b13783b854c,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\allaple_1b02155ee33772635633260689c56ae8,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\allaple_1e6a1f102cbc47ba3084543eaa8ac300,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\allaple_29a9eb5c37669e6cb62374b2637b8c5a,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\andromeda_06a91338ea2cc4a786251401c730cd40,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\andromeda_1ae18b8c8bba3c2628c9f9512a7b413e,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\andromeda_219906070870505cb68e9292969c3a76,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\andromeda_2758ee5d7ca65d172391aec321c18b00,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\andromeda_30085ec93ecd573cef3f012df95bfe7e,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\andromeda_5077020c65ed2e152848c0eb651c2e62,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\andromeda_543805931d9d9735ecbe1efe52530843,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\andromeda_5b9ccd873953481d53921e24c599496e,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\andromeda_686af1bd5470e87e4349a30c012e8b1e,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\andromeda_80d3c0dde9b237a6b420039396cf4876,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\andromeda_941c3fa89557fe36740d75f43f250a90,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ardamax_0a13bae2b510cb6a117a9d13586b459f,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ardamax_26de8069a31c136dc0ce5c94f2701969,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ardamax_41a5f0ea6f9e54b2a3d415f15d5f0903,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ardamax_5984904b4dc5aef80c79c900606623ca,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ardamax_5b5df947f7ca7d1c5e34ea724d1abdf6,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ardamax_6ca8277f81969315d46d16c11c224055,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ardamax_6d0fc6c574fcb31889d1333ce89789ed,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ardamax_6dba5d436222beeaa1a83344f561d19a,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ardamax_7e0b88078939a5bd7a5612ef3add54d3,1,1,1,H_Image_GT4x; H_Image_GT8x; H_Image_GT16x; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ardamax_7f6bfab0ef786c8ff63d275eef78fa66,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ardamax_80502564db009a1059290079ab9624c9,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\banload_00b466ef2e252c0801923801a1e7dddc,1,1,1,H_Time_Pre2000; H_Sections_GT6; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\banload_02248885ffcd1124ff5e1a0290e74fda,1,1,1,H_Sections_GT6; H_Sections_GT8; H_Sections_GT10; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\banload_023214d20e97c602c449e76255b4816a,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\banload_02ca8c9aa3bc48ef21a99a58765cfd84,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\banload_05b88f3ba12dda52cbbf4bd7da19f43f,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\banload_06b3cbd52d502c676db8b42001d38692,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\banload_06b87d9e88a5221a9700c28c6cccbc6e,1,0,1,H_Time_Pre2000; H_Sections_GT6; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\banload_06f910d3f6eafedf75646c045118e362,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\banload_07a358bc61c6418caf75b5794d273d26,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\banload_082475e1417cbf503c71e6b1b48c0110,1,1,1,H_Sections_GT6; H_Sections_GT8; H_Sections_GT10; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\banload_0c5a0d4cff7d59cd405253dd3480088c,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\bifrose_00882e66fc27c222d237fc3383457e7e,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Time_Zero; H_Sections_GT6; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\bifrose_01ba33cce7939f78655799d4a690feff,1,1,1,H_Uninit_OverFile; H_Image_GT4x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\bifrose_02f25882ba40c62b17667592b4eefaf6,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\bifrose_0337dfe05e797e1beac1b17bdf3e13bf,1,1,1,H_Code_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\bifrose_03c1bde7613083801b029f757124aab8,1,1,1,H_Image_GT4x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\bifrose_0410974530f58d0362bdb8381fab3154,1,1,1,H_Code_OverFile; H_Image_GT4x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\bifrose_046899786c393a290fe1422c2e68af8d,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\bifrose_071ede3f3a95ff07722a537e26ed2a86,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\bifrose_07896ae6f32f5fb5bbbd811cf4762b41,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\bifrose_09b9c5a121c38d2fb8cabfa562f6c006,1,1,1,H_Sections_GT6; H_Symbol_OutOfBounds; H_Code_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\bifrose_0b9cbacc24f6b3b125c6510f7b283dee,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\blackshades_061bae47e29dfb98e67c5b208ed89dc0,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\blackshades_0d38c59c32e9ec502d4f8cbabb5fb4e4,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\blackshades_16867ad479a1f18c4f1dfcf8145dd24c,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\blackshades_191ddfa17b36bfb937afcdde81316b74,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\blackshades_19857211fc75b56a469c1d8cdcf20462,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\blackshades_2ae9db272276ad759db8d2e17a7c3d21,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\blackshades_30351a1788cfb3c6d870b7ca49035662,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\blackshades_3591aa074f4fda070c820865c3126e7d,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\blackshades_3aa40162ac5a8bb4208e5904fef05a9f,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\blackshades_3ceaf77d29cc0f1135aa7c19b77b8892,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\carberp_02ee0a16ee03b89bd8f5fdba230ea67d,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\carberp_1a8dcd5a4102d6cf53964aae90989085,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\carberp_206999655f75cc795177fcb03d66b624,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\carberp_2264222dbdd24bf40678281edc8b655f,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\carberp_351d28a56f91f39701bd6d4b1226cbce,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\carberp_5080d47f0de34b93790789d7cef4ef2f,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\carberp_572832c46a1e49f2929e15ee3f56f9ac,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\carberp_58d8a867d271f20d1275ddcae7be3429,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\carberp_6abbe9442274d47d9ef23bcefd3bb2dd,1,1,0,H_Code_OverFile; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\carberp_6ad2b13eac33703ec148fcb663775169,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\carberp_701727010d29fceb36fafe3384450903,1,1,0,H_Code_OverFile; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\cycbot_011db4726a05f1a9860a924cc29c841e,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\cycbot_015567c269a8eefdc7742fa450c5f3c3,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\cycbot_02b09f62374a99b53d7e84b303095908,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\cycbot_031fe5833a54aa245a70115d64712d55,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\cycbot_04987e711cd9b27669e525112f61e408,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\cycbot_053c66e85ef10e8739c81f88bcc31f46,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\cycbot_067395c2e69fe562e4431f5ff3d1bec7,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\cycbot_071bf717e9caba8c44f7607c3d996bcb,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\cycbot_0729c56593126840669d7cf28535d104,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\cycbot_075506851e98a8b96f18f6cc9834dde7,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\cycbot_077aeeeb575efdfc0cd0315e40e8fa66,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\darkcomet_000406bb03366b4744852f4bac0f383c,1,1,0,H_Sections_GT6; H_Sections_GT8; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\darkcomet_05f18d8e6dd716f114c21bc4115baac2,1,1,0,H_Sections_GT6; H_Sections_GT8; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\darkcomet_07333f628bd2373ed0dc2caa31650538,1,1,0,H_Sections_GT6; H_Sections_GT8; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\darkcomet_19aa8c4e704d4bd330f877a31bbecbe9,1,1,0,H_Sections_GT6; H_Sections_GT8; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\darkcomet_25238a8577ad44e90326bde38973a3f7,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\darkcomet_34950ffeeb3c0c44df2e1c7d3c767a6c,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\darkcomet_3cd53c19b760af156245e19c4fc2b918,1,1,0,H_Sections_GT6; H_Sections_GT8; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\darkcomet_4c281321c285b54911255201ed67f51e,1,1,0,H_Sections_GT6; H_Sections_GT8; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\darkcomet_4f84afc78b877412709a522bc52aefbf,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\darkcomet_56d247035c8c4daa10da86f0d987731e,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Time_Zero; H_Sections_GT6; H_Sections_GT8; H_Code_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\darkcomet_59af522221033a565209da64c40a6e92,1,1,0,H_Sections_GT6; H_Sections_GT8
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\dorkbot_013584e9d72881ba78d1c0f2ea844dee,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\dorkbot_0563eb9bdfb4bf9b1e45981625c9448e,1,0,0,H_Entropy_GT65
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\dorkbot_060598448580b97039403b796fecdac0,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\dorkbot_061daa98b8e1986da2f7baaefc298b3c,1,0,0,H_Entropy_GT65
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\dorkbot_09be25524896d00d705cc4c7a7e2b6e7,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\dorkbot_0a2d581a2b25bb119cb71c7b58b7f6bd,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\dorkbot_0adf754e1458feb7c23ee26c2c0b0c0c,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\dorkbot_0e69228c359f359ff50d63430b08b63c,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\dorkbot_10e781d12d7011f7aa60cc1b50a0f8ea,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\dorkbot_14d6b0929f1e0f6ebaf5022086473d2d,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\dorkbot_156abd8a8e0ad83e208a4e7ba91306e2,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\fareit_0ee1f3cd2bea68c7549ae83ef262110f,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\fareit_19731709b6178e4262d1875922702690,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\fareit_1c3eafdb94e40f09006e7507e9f0687e,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\fareit_5ff7c0cc1d11044cbe5e599ca2aa9028,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\fareit_70ac79a9e2faedffc9cba459a12b17f6,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\fareit_7a109d4193b90f5956d8b0909e0122b0,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\fareit_be456a6debca608493fadd04e858d523,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\fareit_c7de9b26b3692c933110554641d763ef,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\fareit_da98a2ab44397c9757d57b65f54804d3,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Uninit_OverFile; H_Image_GT4x; H_Image_GT8x; H_Image_GT16x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\flystudio_003258408cfb5010a6be01c6b727dd64,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\flystudio_00f37033d5d518df1181d71627897e30,1,1,1,H_Sections_GT6; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\flystudio_057fcc7bcf2d65e3ef7a37e09a1355f4,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\flystudio_0634f42d56c8fd2c48b58e4ce0e99745,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\flystudio_06bfb25834676a3c9fd2443ec9d99225,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\flystudio_1a70e2590fb51ebf7a93de53c1b37696,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\flystudio_258f7609f7b75f8a97e3f9f43cd8e19d,1,1,1,H_Sections_GT6; H_Code_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\flystudio_2765136fc81f7d8e60df9628650872c7,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\flystudio_28fa543a6f2ab41b4f8d0fb41fef487d,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\flystudio_32a854d0c75d6199663d1cd7398bcbde,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\flystudio_343dfc8bf78884fd8cedb31495e53f80,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\greencat_0811ecf31f5d696cb08f616d06cc2ee1,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\greencat_2ae3b383b07a60f0c4b62aeffef7b38f,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\greencat_3f1f57cbe19f1d5e9df624397e239d68,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\greencat_5c2bb4785275613dc5b2a836f703cafa,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\greencat_94b54573751c38de43b63c20d9376ac5,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\greencat_a8502773ba8a11112aeaab51df0d2cb7,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\greencat_b36e3885bf8ffcdf900f65b939a9b9cb,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\greencat_c22d56ab936d95ea5f1bd7d9eb747b4f,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\greencat_cb17b37697ac32907c48a229939d0623,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\greencat_f8b6a0554c6f586b4e7b51115b153641,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\hupigon_00bdc9d8eb7aefb83b413fb8db968e68,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\hupigon_0277407e5cb41d66e911995fb07d7e33,1,1,1,H_Code_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\hupigon_0287a4b7e35d011715acbb57392a6a39,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\hupigon_0346dfb6dc2e1ab96fc9b8809d539843,1,1,1,H_Code_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\hupigon_0350cd9bcd09f05bfb6f9a56a30f261b,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\hupigon_0389937df52c2bf29d62a0fd0a89dec1,1,1,1,H_Time_Pre2000; H_Symbol_OutOfBounds; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\hupigon_05739475babd7e7d914882a28931740b,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\hupigon_0612f3009c1fdc5a1f07f47c2d04f5b3,1,0,1,H_Time_Pre2000; H_Sections_GT6; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\hupigon_0615ec347a74da60c684758ea1760183,1,1,1,H_Code_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\hupigon_064a37fea585a39c95c2ec4e7f466ca9,1,1,1,H_Time_Pre2000; H_Sections_GT6; H_Sections_GT8; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\hupigon_067143e2d1ea92ee792afbd28f1ede8f,1,1,1,H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\installcore_037a135aa1958e0e87fbf7e43a99727c,1,1,1,H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\installcore_08721777fedca9f76e2b2d41c1a2d0df,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\installcore_1182a766a012a57f9982eafa3ddb039b,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\installcore_1e55785bc31adeff943ad33ef1770bfb,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\installcore_3456518fd6fd89d582c1bc6f15c8e256,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\installcore_42a69d67ca2081285cd64b090fe1ddec,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\installcore_48dc1b723e523a9dec62aadd9b47c8f9,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\installcore_4badd14d3b254453433a86ffa6f3e1a2,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\installcore_4bd1086647b795486b580b6e3a915d86,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\installcore_52b83cbba94ac4f2bb1392d9557fe5e3,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\installcore_56f027f5687e0f7c7cbc2a742bd4c69e,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ircbot_000a31a1845bc21c080793e385c71f3e,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ircbot_00281cb8a88ccf56c5c7b5508da8deb4,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ircbot_00c4ef24b13b67300bf9dc60a730be2b,1,0,0,H_Entropy_GT65
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ircbot_05c2d6c7737dd2a65910ca181792c660,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ircbot_062bb5f45371aff1a870d8055616c02e,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ircbot_0859fa5d01c147b7a433b8887c2bf73e,1,0,0,H_Entropy_GT65
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ircbot_0a6435f1d914a7a22fe96fb0252561b2,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ircbot_10e127f6d048f00176825268ea2d9944,1,0,0,H_Entropy_GT65
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ircbot_15270a9e11bcbc191893589b57c445cd,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ircbot_17a8c192d0172eec8e062417fb20228e,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ircbot_17c5dedbbc793f57212f04c806cc3fb2,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ixeshe_8ccb735a3140d1a9621b73d1229a3781,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ixeshe_e5c4f11117a7baf1924543f3928f0722,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\karagany_04a1dc0ea9c008451726383c4db8dda9,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\karagany_12b6a7ded5c85d7a6bdd2f195dc1b4ff,1,1,0,H_Sections_GT6; H_Sections_GT8
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\karagany_221cea184f40204315b4b43a104735f1,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\karagany_2626dc71687ea8ea2f8ac1ef66225a27,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\karagany_40adc8404b3e8cf10ff9126605c8b471,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\karagany_58d89c16cab27e47dbbdc025934c6bd9,1,0,0,H_Sections_GT6
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\karagany_5907f4c0a64231c3cfb7a0ae518f3ae4,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\karagany_59d2479a9cf6e3625ef599ffcd737673,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\karagany_5bc544d0aa6b43a766b5a15713bd62c9,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\karagany_5e5e86cf49432890c482f6dfb3347d19,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\karagany_5efd8d1b1dfe655803d57d477fd6e3b2,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\koobface_0d1a3d22722e957e182442c82cb46089,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Time_Zero; H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\koobface_587119bc2b0c552e7d0cdea77b4785e8,1,1,1,H_Time_Pre2000; H_Image_GT4x; H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\koobface_5c4d69dd6087ce145f2c9e1a615efe8d,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\koobface_5c5b634e8875867f4a04925d5d1ed6a5,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\koobface_638d919cca81e65b667013e273f6d1f6,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\koobface_6c5eee630698694676fa35437a282c64,1,1,1,H_Time_Pre2000; H_Entropy_GT65; H_Entropy_GT69
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\koobface_726addd42a5516eeb4941ec6b15ae15e,1,1,1,H_Code_OverFile; H_Uninit_OverFile; H_Image_GT4x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\koobface_7549f2a20d8e71810156532ec302fd38,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\koobface_772b63d58af342c453f4d0e62fafd2a0,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\koobface_78d1a823d1cf8cb71f3241d34159bbc5,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\koobface_7994b3f8ca1ed9ccbed0e0dc21059cc9,1,1,1,H_Time_Pre2000; H_Image_GT4x; H_Image_GT8x
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\netsky_286c5112d7c4110e0943e527dc89719b,1,1,1,H_Code_OverFile; H_Uninit_OverFile; H_Image_GT4x; H_Image_GT8x; H_Image_GT16x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\netsky_b27b5c0d51629edf91cff4df8da96d11,1,1,1,H_Code_OverFile; H_Uninit_OverFile; H_Image_GT4x; H_Image_GT8x; H_Image_GT16x; H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\netsky_c28a1f01114b02d125179938224e953c,1,1,1,H_Code_OverFile; H_Uninit_OverFile; H_Image_GT4x; H_Image_GT8x; H_Image_GT16x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\netsky_c8843acb817ee0a6e004cb6be479de3e,1,1,1,H_Code_OverFile; H_Uninit_OverFile; H_Image_GT4x; H_Image_GT8x; H_Image_GT16x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\netsky_cd99a35b6ff59e2f9551a94e81d1b185,1,1,1,H_Code_OverFile; H_Uninit_OverFile; H_Image_GT4x; H_Image_GT8x; H_Image_GT16x; H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\netsky_d3a589f775d829967790ac1f07440738,1,1,1,H_Code_OverFile; H_Image_GT4x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\netsky_d72461a4a6b48c978984cee9133d8289,1,1,1,H_Code_OverFile; H_Uninit_OverFile; H_Image_GT4x; H_Image_GT8x; H_Image_GT16x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\netsky_dc09239a55dc8ed62b8edb0622e875eb,1,1,1,H_Code_OverFile; H_Uninit_OverFile; H_Image_GT4x; H_Image_GT8x; H_Image_GT16x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\netsky_dd4d58534fa472e4735a532d15a6547f,1,1,1,H_Image_GT4x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\netsky_de9c2d56e451cf591b82c87efaf85c4a,1,1,1,H_Code_OverFile; H_Uninit_OverFile; H_Image_GT4x; H_Image_GT8x; H_Image_GT16x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\netsky_e00d2719088dc76f4c528f0a0a592d6b,1,1,1,H_Code_OverFile; H_Uninit_OverFile; H_Image_GT4x; H_Image_GT8x; H_Image_GT16x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\perflogger_0dd6faa24c82226f00e01f2530050cbf,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\perflogger_1129fbcc732f6e9e8de0fc6d6fe8db8c,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\perflogger_1998242912345cefcfa5c9c679289107,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\perflogger_19af3e080aab98dc04e720ff46456b9c,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\perflogger_2bff054208fa7cd3a0696c8cf3c74e08,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\perflogger_4537943ea99d68d6116f93705166f7f5,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\perflogger_45e3f04f4034c486b9e7bd1d7839df56,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\perflogger_46a9468d4a0daa37006a08e5f02d760b,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\perflogger_5589b3372897ee3c86b19bbd293622c0,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\perflogger_5bceb91e7e89a59ff5460e16ac2f1c1d,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\perflogger_5d06765ba63e356fcfb5b6aceb1bff39,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\poisonivy_030a0e03af51c53eb7c97395ad27a994,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\poisonivy_1e2ccc637c61c7f98d8b60721a42ef73,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\poisonivy_41f75a2fae5753171c75a3e6fd4df8ad,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\poisonivy_52eca5ea5609d78604ae6b149438c28c,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\poisonivy_545e3ed00a18dabbeb3bd18ad45e61c0,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\poisonivy_5ecf3a577e94d4514cb300e2ad055feb,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\poisonivy_740d3fdce665ed6667587eb2b357a949,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\poisonivy_98b4e5f127a62b31bd4fc3e92288ae53,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\poisonivy_c341c2fa49f86bcfe498b8184af581dc,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\poisonivy_f6de36b1797bac4bd645b449de743ca9,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ramnit_0310e730cbb8860de128c2048f17e3c7,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ramnit_07620d39c92ea9bda258782eab08f8ba,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ramnit_0e5fd1c2b7f49b079f51fa1a65bfba62,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ramnit_2e072d00c30b17bbfda2bc1e25818ad6,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ramnit_3d1df0d9e555ebe495972f2baf0ce992,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ramnit_7f0e0a44758ae6ddfe5a2502607d25ec,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ramnit_8aca6dd696ba8afcbccc597a07c12adc,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ramnit_c4477cfc608f6a6bec1cd8a6b53b4afc,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ramnit_d58eba76d04b7962dc038f689e282976,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ramnit_df555f5415831031cc04ecc7c721c844,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sdbot_00bcc1afa954fb4221904ca37725c7b5,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Symbol_OutOfBounds; H_Code_OverFile; H_Image_GT4x; H_Image_GT8x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sdbot_0184db4d88c5d132799d8a6487c7fc5b,1,0,0,H_Entropy_GT65
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sdbot_074b815d9ded01b516a62e3b739caa10,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sdbot_0906672756dce01e23b0148977a25903,1,1,1,H_Uninit_OverFile; H_Image_GT4x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sdbot_0a5b6c45111f3d6c6dfaedb442c44982,1,1,1,H_Uninit_OverFile
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sdbot_12c43a48588ac2b99912deebbc0d8eaa,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sdbot_17e82fa573216d5b14dd5bdcbdfa188d,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sdbot_18dbb93ebea72c9d6b7fa99c959b0149,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sdbot_3046124ef502dd2c587306d1c6335e15,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sdbot_3064faafe0890753411bcb699cf94283,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sdbot_38fc7d32d4ae8db77f2508964118bb1f,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sinowal_00992e36ef38092cec0a8ca65e01ead0,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sinowal_00a9edf34ad0b4912b2924ab934cadfc,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sinowal_00d26035b2a88f27106ef6b9b8e06e71,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sinowal_00dc7ad314eb7ced5fc5f9036edb860c,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sinowal_011bc3149bd12217d1eeaf96699dab00,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sinowal_019538ac20b9c53256ed1cc18eab55a3,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sinowal_01e195066ff0280934f108abb4738993,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sinowal_02346e67e6f2b088343595a75b74389d,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sinowal_023e144016d9257dc507355319bdfcd3,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sinowal_0251305654a85acdf3065aae08646479,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\sinowal_03eccdbb79ccfb679bb9702a3158d058,1,1,1,H_Sections_GT6; H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\spyeye_00bb080060135c5af27e40d84ad58ffb,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\spyeye_038bbce3d275db3765ce4a03d6d26d6c,1,0,1,H_Time_Pre2000; H_Sections_GT6; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\spyeye_03ed82921b473fdbcf6cc103e58e3297,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\spyeye_04c7e2ff43ceab760a63748caaf8edca,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\spyeye_0ade213e3b5ed73df71ac23e8bd07ce9,1,1,1,H_Time_Pre2000; H_Sections_GT6; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\spyeye_0d6f5faf1fa51f63ef4c6b2a1e36dd96,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\spyeye_110947dd0435b60ff7c40201a836c844,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\spyeye_1150b22371101798c1fa3afe8c5b1d7a,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\spyeye_15a830dbda840ed7ba87cc8a8f4affc4,1,0,1,H_Time_Pre2000; H_Sections_GT6; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\spyeye_1830907596138003fe3cd4e8cd716281,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\spyeye_18e526d3aac859f7245cc5d858c76ebc,1,1,1,H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\swisyn_00bc3eb3119ba53856332820a5dcdf01,1,1,1,H_Time_Pre2000; H_Sections_GT6; H_Sections_GT8; H_Sections_GT10; H_Code_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\swisyn_069a05342bcd7490f97d5c17a58328ec,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\swisyn_07bd3c57e39414e901a0a96850a89e62,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\swisyn_07c7b5fe15392ecf22e2758b36d26e22,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\swisyn_0981f6fe588495b205df5b2d0c855a47,1,0,1,H_Time_Pre2000; H_Sections_GT6
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\swisyn_09f8b3663299291baf53405f156ad71c,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\swisyn_0bff6d1229e1e065b5d3ecac134018b7,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\swisyn_0d4741695d69dd730d3fdf10bd84d323,1,1,1,H_Time_V1; H_Time_Pre1992; H_Time_Pre2000; H_Time_Zero; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\swisyn_0e06c342697b98f77e29f29458e0bce7,1,1,1,H_Code_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\swisyn_0f1fe1f00cd29aba00ba0c7cc2ead8d5,1,1,0,H_Sections_GT6; H_Sections_GT8; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\swisyn_11c27bb3b565008ec03fcd3e9cda9e11,1,0,1,H_Time_Pre2000
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\tdss_05743673d7648ef732043c2960c53adc,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\tdss_05e56b543d49b5691df74e8f69ed594e,1,1,1,H_Sections_GT6; H_Entropy_GT65; H_Entropy_GT69
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\tdss_066f97cc3e6172a70960c313c0de5aa8,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\tdss_06b792f6ca88035c601a6c2915883d8f,1,1,1,H_Sections_GT6; H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\tdss_06e1bd6c224283c85ca607ed3298f3c3,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\tdss_0765477c9815d381ce0a7d0f0706a2a7,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\tdss_07cb3c7f9ad121fbedac305318d72ab1,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\tdss_07e59874ed7786ee9efb6af360dacc52,1,0,1,H_Image_GT4x; H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\tdss_0804c11a011079cefd3b303bb11a4191,1,1,1,H_Sections_GT6; H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\tdss_0a24e0af220fb58ba35c340a2220dfcc,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\tdss_0ac64b957725537aa232afbef02987c4,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ursnif_00a54d7d49706951b028b57160088347,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ursnif_0d14ab9fcf688735823272c3f553edaa,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ursnif_0ed6d3f72c4abb18453497bc8290e0d9,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ursnif_73485461803376080d2ea8861c4a12b9,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ursnif_857bf35df69ebb16b492b767021a5743,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ursnif_8b0d963a0c289ed0baba6f03d0721448,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ursnif_8d0a9e4e0de1a9d690c0b3b24c699c73,1,0,0,H_Entropy_GT65
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ursnif_d579c740ee8357861ac9410623a8f794,1,1,1,H_Code_OverFile; H_Image_GT4x
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ursnif_e4265a52977a593e3a4b0455448f8130,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\ursnif_eb1f92b3491997a9f71bae40d96a92c3,1,0,0,H_Entropy_GT65
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\virut_01123a31b12fd0c953de65994525e601,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\virut_01c636e8c93b3d2ea8addbf0d916dea1,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\virut_01c78c47edcf6be95afe47c39d86aa78,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\virut_043820f2198c3ef43b51babf6f05a71b,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\virut_057f49fafb91a3d5f868cfa159e4055a,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\virut_09c059900ee24c66821da9ef971dd286,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\virut_0a3824bd48340c642b5eedb9dc03ba9e,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\virut_0bcecc3f4ab68967a88d1911246b2bc5,1,1,1,H_Time_Pre2000; H_Code_OverFile; H_Image_GT4x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\virut_0c3ed517e6ba324be6649fab203e7b00,1,0,0,
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\virut_0d96d35c20e6c2950517ef1ca8f09bba,1,0,1,H_Time_Pre2000; H_Sections_GT6; H_Entropy_GT65
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\virut_1007b47f36a932440e15e6104f731dda,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\xtremerat_021a481f710b5ee93c915f51c94e9e42,1,0,1,H_Time_Pre2000
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\xtremerat_0318006ec9b49c0d60e848b94eeed6af,1,1,1,H_Time_Pre2000; H_Sections_GT6; H_Entropy_GT65; H_Entropy_GT69
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\xtremerat_23a07df69b476a5e2825641f4c393cb1,1,0,1,H_Time_Pre2000; H_Sections_GT6
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\xtremerat_2e209ec75b25601d27ee57b78d12cb47,1,0,1,H_Time_Pre2000
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\xtremerat_338c6535b58408523bf2af41086cd9e2,1,0,1,H_Time_Pre2000
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\xtremerat_487ab853e92f8a7df6ba761f842e9631,0,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\xtremerat_689c6a18679f7277f319a10e933f253d,1,0,1,H_Time_Pre2000
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\xtremerat_733d9ce46dfa95aab5d000cdcd882fe1,1,0,1,H_Time_Pre2000; H_Sections_GT6; H_Image_GT4x
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\xtremerat_7fb30f33dd0ea3e9b82ecfc677b9fddd,1,0,1,H_Time_Pre2000; H_Sections_GT6
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\xtremerat_807efbeb9557c60be9bc42a7a8bd48af,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zbot_00022cb26d3ff37386f12e98a196831a,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zbot_00033b9fd675d2a43fade992c7685f63,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zbot_001a1d5714890cf7459bd1bff933d66d,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zbot_002325c6d5ff1184320cb9d86750b53a,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zbot_0051ddcfa4fcb8c019392f84b5b6c4d9,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zbot_0079be88294d1205822169f847a9e2f4,1,1,1,H_Time_Pre2000; H_Uninit_OverFile; H_Image_GT4x; H_Image_GT8x; H_Image_GT16x; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zbot_00fdbb273e0baf9f69400460a7292e23,1,1,1,H_Code_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zbot_010f583427bc390f1683c57f2bedcdde,1,1,1,H_Code_OverFile; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zbot_0147e388282d671ea176fd8313fd6695,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zbot_0150b4c48d8ddd5e6e4a1fdbb0f9616e,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zbot_01666d44975f7111458009c9d71ee9f7,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zeroaccess_02d8e45ba8a514b77b91255eeae885dd,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zeroaccess_0368ac92a027a8a6746434021659602c,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zeroaccess_0493df21c16214724edb3dc46d7a790d,1,0,0,
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zeroaccess_050f56f3c64353bcf8ebc4f51eb4f80d,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zeroaccess_053e42b91331e62b59646b518607eab2,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zeroaccess_066a4c30a4e489ff2a1947f4937fd886,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zeroaccess_0c0c18c22e0e286c00075390b10622a0,1,0,0,H_Entropy_GT65
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zeroaccess_0fc7456a17a43983d55488fcf548410e,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zeroaccess_10235c4980a756bc3d3fcda65baf7e1f,1,1,1,H_Sections_GT6; H_Sections_GT8; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zeroaccess_12a1f312c80aac0761006acfae2d13ed,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+malicious,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\malicious\zeroaccess_185a0df720fa917e53c155d1fe06ff0c,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\accessibilitycpl.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\acppage.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\aitstatic.exe,1,1,1,H_Time_Pre2000; H_Sections_GT6; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\appidcertstorecheck.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\ARP.EXE,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\audiodg.exe,1,0,0,H_Sections_GT6
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\AudioEng.dll,1,1,0,H_Sections_GT6; H_Sections_GT8; H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\AUDIOKSE.dll,1,1,0,H_Sections_GT6; H_Sections_GT8; H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\AudioSes.dll,1,1,0,H_Sections_GT6; H_Sections_GT8; H_Sections_GT10
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\audiosrv.dll,1,1,0,H_Sections_GT6; H_Sections_GT8
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\audit.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\auditpol.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\AuthFWSnapin.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\authui.dll.mui,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\bcdedit.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\bcdsrv.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\BdeUISrv.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\BdeUnlockWizard.exe,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\BitLockerWizard.exe,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\BitLockerWizardElev.exe,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\blackbox.dll,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\bridgeunattend.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\BWUnpairElevated.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\CbsProvider.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\CbsProvider.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\cdosys.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\certmgr.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\CertPolEng.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\certutil.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\change.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\chglogon.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\chgport.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\chgusr.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\cmd.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\cmdl32.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\cmisetup.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\cmmon32.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\cmstp.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\colorcpl.exe,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\comdlg32.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\CompatProvider.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\CompatProvider.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\CompatTelRunner.exe,1,0,1,H_Time_Pre2000
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\conhost.exe,1,0,0,H_Sections_GT6
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\consent.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\crypt32.dll,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\crypt32.dll.mui,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\cryptnet.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\cryptsp.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\cryptsvc.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\cryptui.dll,1,0,0,H_Sections_GT6; H_Entropy_GT65
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\cscript.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\d3d9.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dbgeng.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dbghelp.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\DevicePairingFolder.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dhcpcmonitor.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dhcpcmonitor.dll.mui,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dhcpcore.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dhcpcore.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dhcpcore6.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dhcpcore6.dll.mui,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dhcpcsvc.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dhcpcsvc.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dhcpcsvc6.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dhcpcsvc6.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\Dism.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\DismCore.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\DismCorePS.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\DismHost.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\DismProv.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\DmiProvider.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\DmiProvider.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dnscacheugc.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dot3ui.dll,1,0,0,H_Entropy_GT65
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dps.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dpx.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\drmmgrtn.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\drmv2clt.dll,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\drvinst.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dsauth.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dwm.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dxdiagn.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dxmasf.dll,1,0,1,H_Image_GT4x
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\DxpTaskSync.dll,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\elsTrans.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\EncDump.dll,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\evr.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\ExplorerFrame.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\fde.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\fdeploy.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\fdProxy.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\finger.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\fms.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\FntCache.dll,1,0,0,H_Sections_GT6
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\FolderProvider.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\fsquirt.exe,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\FXSCOVER.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\Groupinghc.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\hbaapi.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\hgcpl.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\HOSTNAME.EXE,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\httpapi.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\iasacct.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\iasrad.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\iasrecst.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\icardagt.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\ie4uinit.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\ieetwcollector.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\ieUnatt.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\iexpress.exe,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\IMCCPHR.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\IMEPADSV.EXE,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\IMJPDADM.EXE,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\IMJPDCT.EXE,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\IMJPDSVR.EXE,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\IMJPMGR.EXE,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\imjppdmg.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\IMJPUEX.EXE,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\IMSCPROP.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\IMTCPROP.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\IntlProvider.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\IntlProvider.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\iyuv_32.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDBLR.DLL,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDBULG.DLL,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDCZ1.DLL,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDGEO.DLL,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDGR1.DLL,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\kbdlk41a.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDLT1.DLL,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDMAORI.DLL,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDMON.DLL,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDNEPR.DLL,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDPO.DLL,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDSG.DLL,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDTAJIK.DLL,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDTURME.DLL,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KBDUGHR1.DLL,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\KMSVC.DLL,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\localsec.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\logoff.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\LogProvider.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\lsass.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\lsm.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\luainstall.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\manage-bde.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mcupdate_GenuineIntel.dll,1,1,1,H_Sections_GT6; H_Sections_GT8; H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mf.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mf3216.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mferror.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mfplat.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mfpmp.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mfps.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\MigAutoPlay.exe,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\MigSetup.exe,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\migwiz.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mimefilt.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mmc.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mofcomp.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mprapi.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\MRINFO.EXE,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mscorees.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msfeedssync.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mshta.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msi.dll,1,0,0,H_Sections_GT6
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msiexec.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msihnd.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msimg32.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msimsg.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msimsg.dll.mui,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msinfo32.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msmmsp.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msnetobj.dll,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msra.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msrle32.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msscp.dll,1,0,0,H_Entropy_GT65
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mssign32.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\MsSpellCheckingFacility.exe,1,0,0,H_Sections_GT6
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mstask.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mstsc.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msvidc32.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msxml6.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msxml6r.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\msyuv.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\muifontsetup.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mydocs.dll,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\NAPCRYPT.DLL,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\napdsnap.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\NAPHLPR.DLL,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\Narrator.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\NaturalLanguage6.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\netbtugc.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\netcfg.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\netplwiz.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\NETSTAT.EXE,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\netutils.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\nltest.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\notepad.exe,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\NpcapHelper.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\nshipsec.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\ntevt.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\ntprint.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\ocsetapi.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\ole32.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\oleres.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\oobeldr.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\OpcServices.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\OSProvider.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\OSProvider.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\OxpsConverter.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\P2P.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\P2PGraph.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\pcadm.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\pcaevts.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\pcalua.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\pcasvc.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\pcawrk.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\perfmon.exe,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\plasrv.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\pnrpsvc.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\PortableDeviceSyncProvider.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\PostMig.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\powercpl.dll,1,0,0,H_Entropy_GT65
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\powershell.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\powershell_ise.exe,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\powershell_ise.exe.config,0,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\PresentationHost.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\PrintBrm.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\PrintBrmEngine.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\PrintBrmUi.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\PrintIsolationProxy.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\prntvpt.dll,1,0,0,H_Sections_GT6
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\qappsrv.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\qdvd.dll,1,0,0,H_Entropy_GT65
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\qprocess.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\quartz.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\query.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\QUTIL.DLL,1,0,0,H_Sections_GT6
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\RacEngn.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\raschap.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\raserver.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\rdpclip.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\rdpd3d.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\rdpencom.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\rdpinit.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\rdpshell.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\rdrmemptylst.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\RDVGHelper.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\Register-CimProvider.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\RegisterIEPKEYs.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\remotepg.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\repair-bde.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\reset.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\resmon.exe,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\riched20.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\riched32.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\Robocopy.exe,1,0,1,H_Image_GT4x
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\ROUTE.EXE,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\RpcRtRemote.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\rrinstaller.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\rstrui.exe,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\rundll32.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\rwinsta.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\schedcli.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\schedsvc.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\scrcons.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\sdbinst.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\sdchange.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\SearchFilterHost.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\SearchIndexer.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\SearchProtocolHost.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\services.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\SetIEInstalledDate.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\setspn.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\Setup.exe,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\setupsqm.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\shadow.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\shell32.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\shmig.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\shunimpl.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\slwga.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\SmiProvider.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\SmiProvider.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\smss.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\spbcd.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\spoolsv.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\spopk.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\sppc.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\sppcomapi.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\sppnp.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\spwizeng.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\spwizres.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\spwmp.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\sqlcese30.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\srvcli.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\ssdpapi.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\ssdpsrv.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\sud.dll,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\syssetup.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\systemcpl.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\t2embed.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\taskcomp.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\taskhost.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\TCPSVCS.EXE,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\termmgr.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\TRAPI.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\tsbyuv.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\tscon.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\tsdiscon.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\tskill.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\TSWbPrxy.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\TsWpfWrp.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\tzres.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\tzres.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\UnattendProvider.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\UnattendProvider.dll.mui,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\unimdmat.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\unsecapp.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\usercpl.dll,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\usp10.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\uxlib.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\VAN.dll,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\VBoxControl.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\VBoxService.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\VBoxTray.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\vdsbas.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\viewprov.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\vmicsvc.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\VSSVC.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WatAdminSvc.exe,1,1,1,H_Entropy_GT65; H_Entropy_GT69; H_Entropy_GT73; H_Entropy_GT77
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WatUX.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wavemsp.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wbemtest.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wecutil.exe,1,0,0,H_Sections_GT6
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WerFault.exe,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WerFaultSecure.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wermgr.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wextract.exe,1,1,1,H_Entropy_GT65; H_Entropy_GT69
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WFS.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WimProvider.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WimProvider.dll.mui,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\windeploy.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\winload.exe,1,1,0,H_Sections_GT6; H_Sections_GT8; H_Sections_GT10
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\winlogon.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WinMgmt.exe,1,0,0,H_Sections_GT6; H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\winresume.exe,1,1,0,H_Sections_GT6; H_Sections_GT8; H_Entropy_GT65
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\winrs.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\winrshost.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wintrust.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wisptis.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wkscli.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wksprt.exe,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wlanapi.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WlanHelper.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wlanhlp.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wlanmsm.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wlansec.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wlansvc.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wmdrmsdk.dll,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WMIADAP.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WmiApSrv.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WmiPrvSE.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wmp.dll,1,0,0,H_Sections_GT6; H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wmploc.DLL,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WPDShextAutoplay.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wpnpinst.exe,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wscript.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wsdchngr.dll,1,0,0,
+benign,holdout,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WSManHTTPConfig.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wsmprovhost.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wuapp.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wuauclt.exe,1,0,0,H_Entropy_GT65
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WUDFHost.exe,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\xmllite.dll,1,0,0,
+benign,training,C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\xpsrchvw.exe,1,0,0,

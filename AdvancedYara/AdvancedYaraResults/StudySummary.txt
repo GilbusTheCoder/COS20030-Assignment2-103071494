@@ -1,0 +1,38 @@
+COS20030 Advanced YARA: one-pass heuristic study
+Generated UTC: 2026-10-18 02:07:21
+Total labelled files: 346 malicious / 376 benign
+Valid PE files: 345 malicious / 375 benign
+Non-PE-labelled samples cannot match PE-gated rules.
+Train: 260 malicious / 282 benign
+Holdout: 86 malicious / 94 benign (25%, seeded; NOT used for optimisation)
+Combinations evaluated on training split: 7623
+Note: training/holdout split is random by FILE, not malware family; correlated family variants may leak.
+Note: the seven PE attributes reflect the coursework V1; alternate thresholds are exploratory.
+Variants also evaluate requiring 1, 2 or 3 simultaneous anomalous PE attributes.
+Default budget: no more than 17 benign TRAINING matches, same as baseline V1.
+This guarantees >= baseline TRAINING true positives at <= baseline TRAINING false positives.
+Resulting YARA rules are syntax-checked against a harmless canary file, NOT rescanned on the dataset.
+Scans: one recursive YARA execution per class directory; no samples executed.
+
+NAME | FULL TP/FP | FULL DETECTION% / FPR% | HOLDOUT DETECTION% / FPR%
+Baseline_V1 | 216/19 | 62.43/5.05 | 59.3/2.13
+Candidate_BaselineFPBudget | 220/16 | 63.58/4.26 | 58.14/1.06
+Candidate_FPR_025permille | 199/7 | 57.51/1.86 | 50.0/0.0
+Candidate_FPR_050permille | 218/14 | 63.01/3.72 | 56.98/1.06
+Candidate_FPR_075permille | 229/22 | 66.18/5.85 | 60.47/2.13
+Candidate_FPR_100permille | 229/22 | 66.18/5.85 | 60.47/2.13
+
+PRESELECTED RECOMMENDATION: Candidate_BaselineFPBudget (minimum 1 matched attribute(s))
+Recommendation optimised only using TRAINING samples and baseline-FP budget.
+Review the HOLDOUT false-positive rate before claiming improvement.
+Comparing candidates on holdout to choose again would compromise independent validation.
+The generated rule satisfies the >=5 distinct PE-attribute condition constraint.
+A false-positive rate of 0% on a small holdout does not prove zero risk in production.
+
+OUTPUT FILES:
+  IndicatorMetrics.csv          individual rule results
+  CandidateComparison.csv       train/holdout/full evaluation
+  FileLevelMatches.csv          evidence for every dataset file
+  Recommended_HeuristicV2.yar  selected YARA rule
+  Candidate_*.yar              alternatives selected on training data
+  FalsePositiveFiles.txt / MissedMaliciousFiles.txt

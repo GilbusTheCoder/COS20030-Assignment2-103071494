@@ -1,0 +1,16 @@
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\aitstatic.exe
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\BdeUnlockWizard.exe
+[holdout] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\BitLockerWizard.exe
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\BitLockerWizardElev.exe
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\blackbox.dll
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\colorcpl.exe
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\CompatTelRunner.exe
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\dxmasf.dll
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\mcupdate_GenuineIntel.dll
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\notepad.exe
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\resmon.exe
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\Robocopy.exe
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\rstrui.exe
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\sud.dll
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\WatAdminSvc.exe
+[training] C:\Users\student\MalwareSample\lab10\lab10\lab10_dataset\benign\wextract.exe
